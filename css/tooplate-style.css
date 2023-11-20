@@ -95,9 +95,9 @@ http://www.tooplate.com/view/2106-soft-landing
 
   .overlay {
     background: #ffffff;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #787878,  #d7d7d7);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #787878,  #d7d7d7);   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    opacity: 0.9;
+    background: -webkit-linear-gradient(to right, #d7d7d7, #787878);   /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #d7d7d7, #787878);   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    opacity: 0.8;
     position: absolute;
     top: 0;
     right: 0;
